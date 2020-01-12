@@ -9,6 +9,7 @@ verify_ssl = true
 channels = "*"
 django = "*"
 channels-redis = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.7"
